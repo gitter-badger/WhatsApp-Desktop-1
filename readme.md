@@ -1,5 +1,7 @@
 # WhatsApp Desktop
 
+[![Join the chat at https://gitter.im/rephole/WhatsApp-Desktop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rephole/WhatsApp-Desktop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 WhatsApp desktop client for OSX and Windows, based on the official WhatsApp web app. Build with [Electron](http://electron.atom.io/).  
 
 This is **NOT** an official product. This project does not attempt to reverse engineer the WhatsApp API or attempt to reimplement any part of the WhatsApp client. Any communication between the user and WhatsApp servers is handled by official WhatsApp Web itself; this is just a native wrapper for WhatsApp Web, like a browser.
